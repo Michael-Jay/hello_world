@@ -1,5 +1,5 @@
 # hello_world
 git for learning
-Michael
-deep digger
-int Embedded Machine
+This is Michael
+This is the first time to use git.
+Just for testing.
